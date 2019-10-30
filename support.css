@@ -34,7 +34,8 @@ body {
 .tabs-pills {
   background-color: #3684eb;
   color: white;
-  padding: 25px;
+  padding-top: 5em;
+  padding-left: 5em;
   padding-bottom: 0;
   border-bottom: none;
 }
